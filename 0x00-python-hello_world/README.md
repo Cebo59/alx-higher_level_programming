@@ -1,1 +1,1 @@
-102-magic_calculation.py
+10-check_cycle.c
