@@ -1,1 +1,1 @@
-102-magic_calculation.py
+6-print_comb3.py
