@@ -1,1 +1,1 @@
-102-square.py
+103-magic_class.py
