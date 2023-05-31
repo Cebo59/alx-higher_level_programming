@@ -1,6 +1,5 @@
-$(function () {
-  $("header").css("color", "#FF0000");
-});
+const el = document.querySelector('header');
+el.style.color = '#FF0000';
 
 //OR
-//('header').css('color', '#FF0000');
+//document.querySelector("header").style.color = "#FF0000";
